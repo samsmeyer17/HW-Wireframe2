@@ -6,6 +6,9 @@ body {
     font-size: 18px;
 }
 
-header nav section aside footer {
-    background: #ebebeb
+
+
+header {
+    background: #ebebeb;
+    text-align: center;
 }
