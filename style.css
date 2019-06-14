@@ -3,12 +3,28 @@ body {
     color: #777;
     background: #777;
     width: 960px;
-    font-size: 18px;
+    font-size: 10px;
+    margin: 2%;
+    padding: 2%;
 }
-
-
 
 header {
     background: #ebebeb;
     text-align: center;
+    align-content: center;
+    width: 90%
+}
+
+nav {
+    background: #ebebeb;
+    text-align: center;
+    align-content: center;
+    width: 90%
+}
+
+section {
+    background: #ebebeb;
+    text-align: center;
+    float: left;
+    width: 55%
 }
