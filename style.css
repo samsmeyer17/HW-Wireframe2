@@ -33,11 +33,10 @@ section {
     background: #ebebeb;
     text-align: center;
     width: 495px;
-    margin: 2%;
-    padding: 2%;
     align-content: space-between;
-    float: left
-
+    float: left;
+    margin: 2%;
+    padding: 1%;
 }
 
 article {
@@ -67,10 +66,22 @@ aside {
     float: left;
     background: #ebebeb;
     color: #777;
-    width: 465px;
+    width: 254px;
     text-align: center;
     align-content: center;
     margin: 2%;
     padding: 2%;
+    height: 168px;
 }
 
+footer {
+    background: #ebebeb;
+    text-align: center;
+    align-content: center;
+    margin: 2%;
+    padding: 4%;
+    width: 80%;
+    align-content: center;
+    align-self: center;
+    float: left;
+}
