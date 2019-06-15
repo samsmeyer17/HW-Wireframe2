@@ -11,8 +11,7 @@ body {
 header {
     background: #ebebeb;
     text-align: center;
-    align-content: center;
-    margin: 15px 0;
+    margin: 15px auto;
     padding: 40px 0;
     width: 800px;
 }
@@ -20,8 +19,7 @@ header {
 nav {
     background: #ebebeb;
     text-align: center;
-    align-content: center;
-    margin: 15px 0;
+    margin: 15px auto;
     padding: 40px 0;
     width: 800px;
 }
@@ -29,13 +27,11 @@ nav {
 section {
     background: #ebebeb;
     text-align: center;
-    align-content: space-between;
     width: 495px;
     float: left;
-    margin: 2%;
-    padding-top: 10px;
-    padding-bottom: 30px;
-    height: 168px;
+    margin: 15px 10px 15px 0;
+    padding: 10px 5px 5px 5px;
+    height: auto;
 }
 
 article {
@@ -50,7 +46,7 @@ h4 {
     background: #ebebeb;
     color: #777;
     margin: 2%;
-    padding: 2%;
+    padding: 10px 10px;
 
 }
 
@@ -58,26 +54,26 @@ p {
     background: #ebebeb;
     color: #777;
     margin: 2%;
-    padding: 2%;
+    padding: 10px 10px;
 }
 
 aside {
     float: left;
     background: #ebebeb;
     color: #777;
-    width: 31%;
+    width: 465px;
     text-align: center;
     align-content: center;
-    margin: 2%;
-    padding: 2%;
-    height: 168px;
+    margin: 15px 0 15px 15px;
+    padding: auto;
+    height: auto;
 }
 
 footer {
     background: #ebebeb;
     text-align: center;
     align-content: center;
-    margin: 2%;
+    margin: 15px auto;
     padding: 4%;
     width: 80%;
     align-content: center;
