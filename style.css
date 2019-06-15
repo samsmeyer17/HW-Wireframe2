@@ -5,38 +5,37 @@ body {
     background: #777;
     width: 960px;
     font-size: 18px;
+    margin: 15px auto;
 }
 
 header {
     background: #ebebeb;
     text-align: center;
     align-content: center;
-    margin: 2%;
-    padding: 4%;
-    width: 80%;
-    align-content: center;
-    align-self: center;
+    margin: 15px 0;
+    padding: 40px 0;
+    width: 800px;
 }
 
 nav {
     background: #ebebeb;
     text-align: center;
     align-content: center;
-    margin: 2%;
-    padding: 4%;
-    width: 80%;
-    align-content: center;
-    align-self: center;
+    margin: 15px 0;
+    padding: 40px 0;
+    width: 800px;
 }
 
 section {
     background: #ebebeb;
     text-align: center;
-    width: 495px;
     align-content: space-between;
+    width: 495px;
     float: left;
     margin: 2%;
-    padding: 1%;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    height: 168px;
 }
 
 article {
@@ -66,7 +65,7 @@ aside {
     float: left;
     background: #ebebeb;
     color: #777;
-    width: 254px;
+    width: 31%;
     text-align: center;
     align-content: center;
     margin: 2%;
@@ -83,5 +82,5 @@ footer {
     width: 80%;
     align-content: center;
     align-self: center;
-    float: left;
+    clear: both
 }
