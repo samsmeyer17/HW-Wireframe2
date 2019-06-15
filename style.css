@@ -29,9 +29,8 @@ section {
     text-align: center;
     width: 495px;
     float: left;
-    margin: 15px 10px 15px 0;
-    padding: 10px 5px 5px 5px;
-    height: auto;
+    margin: 0 auto 15px;
+    padding: 10px 2px 2px 2px;
 }
 
 article {
@@ -57,17 +56,15 @@ p {
     padding: 10px 10px;
 }
 
-aside {
+/* aside {
     float: left;
     background: #ebebeb;
     color: #777;
-    width: 465px;
+    width: auto;
     text-align: center;
-    align-content: center;
-    margin: 15px 0 15px 15px;
-    padding: auto;
-    height: auto;
-}
+    margin: 0 0 15px 10px;
+    padding: 80px 150px;
+} */
 
 footer {
     background: #ebebeb;
