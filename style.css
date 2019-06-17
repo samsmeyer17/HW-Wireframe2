@@ -19,7 +19,7 @@ header {
 nav {
     background: #ebebeb;
     text-align: center;
-    margin: 10px auto 0;
+    margin: 10px auto 5px;
     padding: 40px 0;
     width: 90%;
 }
@@ -29,7 +29,7 @@ section {
     text-align: center;
     width: 495px;
     float: left;
-    margin: 15px 10px 15px 48px;
+    margin: 15px 10px 20px 48px;
     padding: 30px 2px 60px 2px;
     height: 180px
 }
@@ -62,7 +62,7 @@ aside {
     color: #777;
     width: auto;
     text-align: center;
-    margin: 15px 0 15px 10px;
+    margin: 15px 0 20px 10px;
     padding: 40px 151px;
     height: 190px
 }
@@ -70,7 +70,7 @@ aside {
 footer {
     background: #ebebeb;
     text-align: center;
-    margin: 15px auto;
+    margin: 5px auto;
     padding: 40px 0;
     width: 90%;
     clear: both;
